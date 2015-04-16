@@ -7,6 +7,9 @@ namespace DuggaNumreric.Test
 {
     class NumrericNumbers
     {
-        public void Dugga
+        public string DuggaNumreric(string message)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
