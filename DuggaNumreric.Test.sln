@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuggaNumreric.Test", "Dugga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuggaNumrericCLib", "DuggaNumrericCLib\DuggaNumrericCLib.csproj", "{84B35735-A7BD-4C73-9060-2960635A0CA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuggaNumrericConsoleApp", "DuggaNumrericConsoleApp\DuggaNumrericConsoleApp.csproj", "{C665B6A6-FF15-4AF7-B666-E3D2CDBFA570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84B35735-A7BD-4C73-9060-2960635A0CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84B35735-A7BD-4C73-9060-2960635A0CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84B35735-A7BD-4C73-9060-2960635A0CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C665B6A6-FF15-4AF7-B666-E3D2CDBFA570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C665B6A6-FF15-4AF7-B666-E3D2CDBFA570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C665B6A6-FF15-4AF7-B666-E3D2CDBFA570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C665B6A6-FF15-4AF7-B666-E3D2CDBFA570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\bin\Debug\DuggaNumrericConsoleApp.exe.config
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\bin\Debug\DuggaNumrericConsoleApp.exe
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\bin\Debug\DuggaNumrericConsoleApp.pdb
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\bin\Debug\DuggaNumrericCLib.dll
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\bin\Debug\DuggaNumrericCLib.pdb
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\obj\Debug\DuggaNumrericConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\obj\Debug\DuggaNumrericConsoleApp.exe
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumrericConsoleApp\obj\Debug\DuggaNumrericConsoleApp.pdb
