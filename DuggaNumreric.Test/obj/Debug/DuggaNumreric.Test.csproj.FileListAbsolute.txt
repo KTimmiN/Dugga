@@ -3,3 +3,5 @@ c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNum
 c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumreric.Test\bin\Debug\DuggaNumreric.Test.pdb
 c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumreric.Test\obj\Debug\DuggaNumreric.Test.dll
 c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumreric.Test\obj\Debug\DuggaNumreric.Test.pdb
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumreric.Test\bin\Debug\DuggaNumrericCLib.dll
+c:\users\timmi\documents\visual studio 2013\Projects\DuggaNumreric.Test\DuggaNumreric.Test\bin\Debug\DuggaNumrericCLib.pdb

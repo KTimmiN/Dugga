@@ -51,8 +51,13 @@
   </Choose>
   <ItemGroup>
     <Compile Include="DuggaNumrericTest.cs" />
-    <Compile Include="NumrericNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DuggaNumrericCLib\DuggaNumrericCLib.csproj">
+      <Project>{84b35735-a7bd-4c73-9060-2960635a0ca1}</Project>
+      <Name>DuggaNumrericCLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
