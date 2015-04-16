@@ -10,6 +10,17 @@ namespace DuggaNumrericConsoleApp
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Console.WriteLine("Enter a message");
+                var message = Console.ReadLine();
+                var result = new DuggaNumreric.NumrericNumbers();
+            }
+            catch (Exception)
+            {
+                
+                throw;
+            }
         }
     }
 }

@@ -7,6 +7,7 @@ namespace DuggaNumreric
 {
     public class NumrericNumbers
     {
+        
         public string DuggaNumreric(string message)
         {
             if(message == null)
@@ -18,11 +19,15 @@ namespace DuggaNumreric
                 throw new ArgumentException("Message is empty");
 
             }
-            if (message.Trim().Equals("k"))
+            if (message == "1000")
+            {
+                return  "1000";
+            }
+            if (message.Trim().Equals("1k"))
             {
                 return "1000";
             }
-            if (message.Trim().Equals("1k"))
+            if (message == "k")
             {
                 return "1000";
             }
